@@ -65,6 +65,7 @@ Most information systems must give an ability for a user to affect state of the 
 
 Intentions to change the system are encapsulated in a command. As opposed to simply saving form data to a table in a database, this allows us to have a non-technical way to show the intentions while allowing any implementation - although certain ones have advantages as we will see.
 
+[highlight `Registered` event. Maybe also the command]
 ![empower](empower.jpg)
 <sub>[high res version](empower_large.jpg)</sub>
 
